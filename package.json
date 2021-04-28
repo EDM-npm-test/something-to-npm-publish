@@ -1,5 +1,5 @@
 {
-  "name": "@edm-npm-test/something-to-npm-publish",
+  "name": "@EDM-npm-test/something-to-npm-publish",
   "version": "1.0.0",
   "description": "something to test the github npm packages",
   "main": "index.js",
